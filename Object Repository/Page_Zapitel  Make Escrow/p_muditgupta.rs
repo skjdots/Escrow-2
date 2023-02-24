@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_muditgupta</name>
+   <tag></tag>
+   <elementGuidId>5345ca57-0a2d-4135-a024-66ee0219aace</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-3']/div[2]/div/div/div/div/a/div/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.mb-0.counter_party_username</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dc6b60af-5bdc-4930-8be1-5a981ea57b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-0 counter_party_username</value>
+      <webElementGuid>f5732cc7-851b-461a-a681-d7cb1ff7cce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>@muditgupta</value>
+      <webElementGuid>2f5ba9ea-8b2a-4e2a-b476-1a626880944a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-3&quot;)/div[@class=&quot;mt-2 mb-3 form-group&quot;]/div[@class=&quot;stake__opponent owl-theme owl-carousel owl-loaded owl-drag&quot;]/div[@class=&quot;owl-stage-outer&quot;]/div[@class=&quot;owl-stage&quot;]/div[@class=&quot;owl-item active&quot;]/a[@class=&quot;stake__opponent__item h-100 text-reset opponent_select&quot;]/div[@class=&quot;invite_counter_party_outer d-flex flex-wrap h-100&quot;]/div[@class=&quot;invite_counter_party_block d-flex flex-wrap align-items-center selected w-100 h-100&quot;]/div[@class=&quot;invite_counter_party_cont&quot;]/p[@class=&quot;mb-0 counter_party_username&quot;]</value>
+      <webElementGuid>c0b845b6-67c5-4f25-957b-8f1a18a3081e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-3']/div[2]/div/div/div/div/a/div/div/div[2]/p</value>
+      <webElementGuid>c2fce401-e10d-4d30-8296-1a5c719238df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite a counter party'])[1]/following::p[1]</value>
+      <webElementGuid>1a099e63-024e-47c2-bddd-1b064de69201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::p[1]</value>
+      <webElementGuid>1951b0e9-55ed-4c3a-9421-94109784737b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUDIT GUPTA'])[1]/preceding::p[1]</value>
+      <webElementGuid>92cdf260-ced9-4bdb-8cdf-5054ec21f71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private/public ltd.'])[1]/preceding::p[2]</value>
+      <webElementGuid>affd91d9-9b4c-4bba-936a-0d42b4530334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='@muditgupta']/parent::*</value>
+      <webElementGuid>8d319ac2-3013-4507-b483-cc1ee242b053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/p</value>
+      <webElementGuid>df025acb-cb46-4124-9620-969db57fe532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '@muditgupta' or . = '@muditgupta')]</value>
+      <webElementGuid>66b135ae-36b0-4ba1-8dea-5bc70363b21f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
